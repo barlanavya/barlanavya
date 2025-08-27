@@ -1,9 +1,3 @@
-<div align="center" id="top">
-  
-
-  
-</div>
-
 <div align="center">
   <h1>Barla Navya</h1>
   <h3>Software Engineering Enthusiast | AI/ML | Full Stack Development</h3>
@@ -11,31 +5,31 @@
 
 <p align="center">
   <a href="https://github.com/barlanavya?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/forks/barlanavya?style=flat" alt="Badge showing the total of project forks"/>
+    <img src="https://img.shields.io/github/forks/barlanavya/barlanavya?style=flat" alt="Forks"/>
   </a>
 
   <a href="https://github.com/barlanavya" target="_blank">
-    <img src="https://img.shields.io/github/stars/barlanavya?style=flat" alt="Badge showing the total of project stars"/>
+    <img src="https://img.shields.io/github/stars/barlanavya/barlanavya?style=flat" alt="Stars"/>
   </a>
 
   <a href="https://github.com/barlanavya" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/barlanavya?style=flat" alt="Badge showing average commit frequency per month"/>
+    <img src="https://img.shields.io/github/commit-activity/m/barlanavya/barlanavya?style=flat" alt="Commit Activity"/>
   </a>
 
   <a href="https://github.com/barlanavya" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/barlanavya?style=flat" alt="Badge showing when the last commit was made"/>
+    <img src="https://img.shields.io/github/last-commit/barlanavya/barlanavya?style=flat" alt="Last Commit"/>
   </a>
 
   <a href="https://github.com/barlanavya" target="_blank">
-    <img src="https://img.shields.io/github/issues/barlanavya?style=flat" alt="Badge showing the total of project issues"/>
+    <img src="https://img.shields.io/github/issues/barlanavya/barlanavya?style=flat" alt="Issues"/>
   </a>
 
   <a href="https://github.com/barlanavya" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/barlanavya?style=flat" alt="Badge showing the total of project pull-requests"/>
+    <img src="https://img.shields.io/github/issues-pr/barlanavya/barlanavya?style=flat" alt="Pull Requests"/>
   </a>
 
   <a href="https://github.com/barlanavya" target="_blank">
-    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
+    <img alt="License" src="https://img.shields.io/github/license/barlanavya/barlanavya?color=f85149">
   </a>
 </p>
 
