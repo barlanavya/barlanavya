@@ -139,7 +139,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/barlanavya/barlanavya/output/snake.svg" alt="Snake animation" />
+
 
 ---
 
